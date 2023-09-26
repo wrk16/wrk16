@@ -57,6 +57,8 @@
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
             <a href="https://canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
             </p>
+            <br><br>
+ <h3 align="left">🔥 My Stats :</h3> <br>           
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wrk16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Most Used Languages" height="150" alt="languages graph"  />
